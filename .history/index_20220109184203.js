@@ -41,9 +41,9 @@ console.log(nametype);
 
 var orderHasShipped = true;
 if (orderHasShipped === true) {
-    console.log("The order shipped");
+    console.log();
 } else {
-    console.log("The order did not shipped")
+    console.log("The order shipped")
 }
 
 
