@@ -32,10 +32,14 @@ var myLastName = "Yousef";
 
 //// question 3 Check the type of the value "frog" with the typeof operator and assign the result to a variable. Console log the variable value with a label, e.g. “The type of frog is ___”.
 
-var nametype = typeof "frog";
-console.log(nametype);
+alert("frog");
+console.log(animal);
 
+var nametype = typeof fullName;
+console.log(nametype)
 
+var animal = "frog";
+console.log(animal);
 
 
 

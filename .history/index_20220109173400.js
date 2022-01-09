@@ -35,7 +35,11 @@ var myLastName = "Yousef";
 var nametype = typeof "frog";
 console.log(nametype);
 
+var nametype = typeof fullName;
+console.log(nametype)
 
+var animal = "frog";
+console.log(animal);
 
 
 
