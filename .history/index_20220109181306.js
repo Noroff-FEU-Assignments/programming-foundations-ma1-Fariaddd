@@ -30,21 +30,14 @@ var myLastName = "Yousef";
 
 
 
-// question 3 Check the type of the value "frog" with the typeof operator and assign the result to a variable. Console log the variable value with a label, e.g. “The type of frog is ___”.
+//// question 3 Check the type of the value "frog" with the typeof operator and assign the result to a variable. Console log the variable value with a label, e.g. “The type of frog is ___”.
 
 var nametype = typeof "frog";
 console.log(nametype);
 
 
 
-// Question 4. Declare and initialise a variable called orderHasShipped with a boolean value. Create an if statement that checks if orderHasShipped is true. If it is true, console log the string value "The order shipped". If not, console log the string value "The order did not ship".
-
-var orderHasShipped = true;
-
-
-
-
-
+Q
 
 
 
