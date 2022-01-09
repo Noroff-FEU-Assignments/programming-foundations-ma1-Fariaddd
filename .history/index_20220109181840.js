@@ -40,9 +40,7 @@ console.log(nametype);
 // Question 4. Declare and initialise a variable called orderHasShipped with a boolean value. Create an if statement that checks if orderHasShipped is true. If it is true, console log the string value "The order shipped". If not, console log the string value "The order did not ship".
 
 var orderHasShipped = true;
-if (orderHasShipped === true) {
-    console.log(orderHasShipped);
-} else
+console.log(orderHasShipped);
 
 
 
@@ -51,9 +49,9 @@ if (orderHasShipped === true) {
 
 
 
-    // joining the strings together
+// joining the strings together
 
-    var letters = ("a" + "b" + "c" + "d");
+var letters = ("a" + "b" + "c" + "d");
 console.log(letters);
 
 // with space 
