@@ -33,14 +33,13 @@ var myLastName = "Yousef";
 // question 3 Check the type of the value "frog" with the typeof operator and assign the result to a variable. Console log the variable value with a label, e.g. “The type of frog is ___”.
 
 var nametype = typeof "frog";
-
 console.log(nametype);
+
 
 
 // Question 4. Declare and initialise a variable called orderHasShipped with a boolean value. Create an if statement that checks if orderHasShipped is true. If it is true, console log the string value "The order shipped". If not, console log the string value "The order did not ship".
 
 var orderHasShipped = true;
-
 if (orderHasShipped === true) {
     console.log("The order shipped");
 } else {
@@ -48,14 +47,27 @@ if (orderHasShipped === true) {
 }
 
 
-// Question 5. Create a for loop that counts from 7 to 13. Console log the value of the counter variable inside the loop.
 
 
-for (var count = 7; count <= 13; count++) {
-    console.log(count);
 
-}
 
+
+
+// joining the strings together
+
+var letters = ("a" + "b" + "c" + "d");
+console.log(letters);
+
+// with space 
+
+var petOne = "cat";
+var petTow = "dog"
+
+var myPets = petOne + " " + petTow;
+
+console.log(myPets);
+
+// "Boollen variable with its value" 
 
 
 
