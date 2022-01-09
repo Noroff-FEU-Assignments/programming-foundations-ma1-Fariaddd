@@ -12,16 +12,10 @@ console.log(letters);
 
 // with space 
 
-var petOne = "cat";
-var petTow = "dog"
-
-var myPets = petOne + " " + petTow;
-
-console.log(myPets);
+var petOne = "dog";
+var petTow = ""
 
 // "Boollen variable with its value" 
-
-
 
 
 

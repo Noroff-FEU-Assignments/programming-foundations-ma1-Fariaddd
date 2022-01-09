@@ -15,9 +15,7 @@ console.log(letters);
 var petOne = "cat";
 var petTow = "dog"
 
-var myPets = petOne + " " + petTow;
-
-console.log(myPets);
+console.log()
 
 // "Boollen variable with its value" 
 

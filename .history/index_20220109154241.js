@@ -5,23 +5,7 @@
 var myCity = "Oslo"
 console.log(myCity)
 
-// joining the strings together
-
-var letters = ("a" + "b" + "c" + "d");
-console.log(letters);
-
-// with space 
-
-var petOne = "cat";
-var petTow = "dog"
-
-var myPets = petOne + " " + petTow;
-
-console.log(myPets);
-
 // "Boollen variable with its value" 
-
-
 
 
 
