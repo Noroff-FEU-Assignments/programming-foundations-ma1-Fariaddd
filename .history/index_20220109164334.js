@@ -1,6 +1,6 @@
 // 1. Declare and initialise three variables with appropriate names and values. One variable with a number value, one with a boolean value and one with a string value.
 
-//   "One variable with a number value" 
+//   "one variable with a number value" 
 
 var myFirstNumber = 4;
 console.log(myFirstNumber)
@@ -9,13 +9,6 @@ console.log(myFirstNumber)
 
 var isLoggedIn = true;
 console.log(isLoggedIn);
-
-// String variable with its value
-
-var myCity = "Oslo"
-console.log(myCity);
-
-
 
 
 

@@ -1,28 +1,14 @@
 // 1. Declare and initialise three variables with appropriate names and values. One variable with a number value, one with a boolean value and one with a string value.
 
-//   "One variable with a number value" 
+//  (1) "one variable with a number value" 
 
 var myFirstNumber = 4;
 console.log(myFirstNumber)
 
-// Boolean variable with its value
-
-var isLoggedIn = true;
-console.log(isLoggedIn);
-
-// String variable with its value
-
-var myCity = "Oslo"
-console.log(myCity);
-
-
-
-
 
 // (2) a raviable with a boolean with its value
 
-
-
+var my
 
 
 
